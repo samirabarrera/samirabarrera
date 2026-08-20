@@ -18,7 +18,7 @@
 *   **Infrastructure & Queues:** `Docker`, `BullMQ`
 
 ## 🚀 Featured Projects
-✨
+
 *   **[Expense Tracker](https://github.com/samirabarrera/expense-tracker)**: Full-stack personal finance application.
     *   **Frontend:** `React.js`
     *   **Backend & DB:** `Node.js` with `PostgreSQL`
@@ -33,4 +33,4 @@
 *   **Email:** `barrerasamira@gmail.com`
 
 ---
-⭐️ *Thanks for visiting my profile!* 
+⭐️ *Thanks for visiting my profile!* ✨
