@@ -23,6 +23,7 @@
     *   **Frontend:** `React.js`
     *   **Backend & DB:** `Node.js` with `PostgreSQL`
     *   **Infrastructure:** Containerized with `Docker`
+      
 *   **[Solar IoT Dashboard](https://github.com/samirabarrera/Solar_IoTMonitoring_Backend)**: Full-stack real-time monitoring dashboard for IoT devices.
     *   **Frontend:** `React.js`, `Axios`, `Rechart`
     *   **Real-time & Backend:** `Node.js`, `WebSockets` / `Socket.io`
