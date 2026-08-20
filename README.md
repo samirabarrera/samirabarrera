@@ -1,10 +1,10 @@
-# 👋 Hi! I'm a Full Stack Web Developer
-### Transforming complex problems into efficient web solutions 🪄
+# 👋 Hi! I'm a Full Stack Developer
+### Transforming complex problems into efficient solutions 🪄
 
 
 ## 👩‍💻 About Me
 
-* 🎓 Graduated with a technical degree in **Full Stack Web Development**.
+* 🎓 Graduated with a technical degree in **Full Stack Development**.
 * ☁️ Solid practical experience building scalable applications and working with cloud platforms, particularly **AWS**.
 * 🔍 Strong background in technical operations, system troubleshooting, log analysis, and backend error diagnostics to maintain system stability.
 * 📊 Highly skilled in relational database administration, SQL and non-SQL.
@@ -14,7 +14,7 @@
 
 *   **Frontend:** `React`, `TypeScript`, `JavaScript (ES6+)`
 *   **Backend & Cloud:** `Node.js`, `AWS`, `Serverless Architecture`
-*   **Databases & Cache:** `PostgreSQL`, `SQL`, `Redis`
+*   **Databases:** `PostgreSQL`, `SQL`, `Redis`
 *   **Infrastructure & Queues:** `Docker`, `BullMQ`
 
 ## 🚀 Featured Projects
@@ -30,8 +30,8 @@
 
 ## 📫 Let's Connect
 
-*   **LinkedIn:** (https://linkedin.com/in/barrerasamira)
-*   **Email:** `barrerasamira@gmail.com`
+*   **LinkedIn:** (https://linkedin.com/in/barrerasamira) ⛓️‍💥
+*   **Email:** `barrerasamira@gmail.com` 📧
 
 ---
-⭐️ *Thanks for visiting my profile!* ✨
+✨ *Thanks for visiting my profile!* 
